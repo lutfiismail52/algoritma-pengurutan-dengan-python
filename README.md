@@ -1,0 +1,1 @@
+Ini adalah repositori untuk menyimpan kode sumber untuk mata kuliah Algoritma & Struktur Data studi kasus sederhana penerapan algoritma pengurutan (sorting algorithm) dengan menggunakan bahasa pemrograman Python.
